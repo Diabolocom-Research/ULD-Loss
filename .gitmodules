@@ -1,0 +1,6 @@
+[submodule "llm-distillation"]
+	path = llm-distillation
+	url = https://github.com/Nicolas-BZRD/llm-distillation
+[submodule "llm-recipes"]
+	path = llm-recipes
+	url = https://github.com/Nicolas-BZRD/llm-recipes
